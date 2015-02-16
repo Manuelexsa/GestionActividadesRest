@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/andiracti"
+        android:title="@string/anadiract"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/anadirprof"
+        android:title="@string/anadirprof"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/anadirgru"
+        android:title="@string/anadirgrup"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

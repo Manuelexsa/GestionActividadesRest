@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestorActividades</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secundaria">Secundaria</string>
+    <string name="title_section1">Actividades</string>
+    <string name="title_section2">Grupos</string>
+    <string name="title_section3">Profesores</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_actividades">Actividades</string>
+    <string name="tab1">Extraexcolares</string>
+    <string name="tab2">Complementarias</string>
+    <string name="title_activity_add">Añadir</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="title_activity_detalle_actividad">DetalleActividad</string>
+    <string name="title_activity_imactividad">IMActividad</string>
+    <string name="anadiract">Añadir Actividad</string>
+    <string name="anadirprof">Añadir Profesor</string>
+    <string name="anadirgrup">Añadir Grupo</string>
+
+    <string name="lprofesor">Profesor:</string>
+    <string name="lgrupo">Grupo:</string>
+    <string name="lhorai">Hora Inicio:</string>
+    <string name="lhoraf">Hora Fin:</string>
+    <string name="llugari">Lugar Salida:</string>
+    <string name="llugarf">Lugar Llegada:</string>
+    <string name="ldescrip">Descripcion:</string>
+
+</resources>
